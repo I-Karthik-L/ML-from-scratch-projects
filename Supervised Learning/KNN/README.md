@@ -24,7 +24,7 @@ The notebook walks through a standard Machine Learning classification pipeline u
 ## How to Run This Code (Google Colab)
 This notebook is configured to run in **Google Colab**. To practice with this code yourself, follow these steps:
 
-1. **Download the Datasets:** Download the `.zip` file provided in this repository and extract the `diabetes.csv` and `lung_cancer_examples.csv` files to your local computer.
+1. **Download the Datasets:** Download the file provided in this repository the `diabetes.csv` and `lung_cancer_examples.csv` files to your local computer.
 2. **Open the Notebook:** Upload the notebook file to Google Colab and open it.
 3. **Upload the Data to Colab:** Click the folder icon on the left sidebar of your Colab interface and upload the two `.csv` files directly into the `/content/` directory.
 4. **Execute:** Run the cells sequentially. You can experiment by changing the `n_neighbors` value in the code to see how it affects the accuracy and confusion matrix!
